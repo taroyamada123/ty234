@@ -1,3 +1,3 @@
 module.exports = {
-  basePath: '/taroyamada123.github.io',
+  basePath: '/ty234.github.io',
 }
